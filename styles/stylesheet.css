@@ -1,0 +1,74 @@
+header h1{
+text-align: center;
+}
+
+
+ul {
+  list-style-type: none;
+  magin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+  
+nav li {
+  width: 13.5%;
+  background-color: darkviolet;
+  border: 1px solid white;
+  text-align: center;
+  padding: 3px;
+  align-content: left;
+  float: left;  
+}
+
+nav a:link, nav a:visited {
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  display:inline;  
+}
+
+aside li {
+  background-color: violet;
+  text-align: center;
+  width:13.5%;
+}
+
+aside a:link, aside a:visited {
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  display: inline;
+}
+
+
+div {
+  width: 30%;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+#content {
+  width: 100%;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+
+
+  
+
+footer li{  
+  display: inline-block;
+  padding: 20px;
+}
+
+footer{
+  text-align: center;
+}
+
+
+
+
+
+      
